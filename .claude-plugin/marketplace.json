@@ -1,11 +1,11 @@
 {
-  "name": "perfect_aichz_jnsc",
+  "name": "perfectaichz_jnsc",
   "description": "测试用",
-  "skills":[
+  "skills": [
     {
       "name": "产品设计",
-      "description": "构建美观的界面",
-      "path": "skills/ui-ux-pro-max"
+      "path": "skills/ui-ux-pro-max",
+      "description": "构建美观的界面"
     }
   ]
 }
